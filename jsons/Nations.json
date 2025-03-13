@@ -1,18 +1,18 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
+		"name": "The Zulu",
+		"leaderName": "Shaka Zulu",
+		"adjective": ["Zulu"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "You are the first son of the powerful King Senzangakhona of Mthethwa. You have unitied all Zulu clans but more awaits you.",
+		"startIntroPart2": "Keep your toes, your loyal army preceeds you and fight for honour. The ancestors approve your kingship. Dominate the others.",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": "Your existence must come to an end.",
+		"attacked": "You want to play with the Zulu's, Our children shall play with your skulls after our victory.",
+		"defeated": "Such embarrassment. Abadlozi, forgive me!.",
+		"introduction": "I am Shaka kaSenzangakhona. Friend to few, demise to many. May peace last between us.",
 		
 		"neutralHello": "How are you doing?",
 		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
@@ -24,15 +24,13 @@
 		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
 		"hateYes": ["That is fine.","That is good enough.","Very well..."],
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
+		"afterPeace": "You are very lucky, normally nobody's left alive.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"outerColor": [105,64,18],
+		"innerColor": [245,245,245],
+		"unique": "Abadlozi",
+		"cities": ["Ulundi","Umgungundlovu","Eshowe","KwaDukuza","Ixopo","eThekwini","uMkhanyakude","Umzinyathi","uThukela",
+		"Nongoma","Pongola","Nquthu","Manguzi","Mbazwana","Mtubatuba","Hluhluwe","Ubombo",]
 	}
 ]
