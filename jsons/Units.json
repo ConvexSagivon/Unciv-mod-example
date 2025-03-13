@@ -1,16 +1,28 @@
 [
 	{
 		"name": "Amabutho",
-		"unitType": "Melee",
+		"unitType": "Land Melee",
 		"uniqueTo": "The Zulu",
-		"replaces": "Spearman",
+		"replaces": "Warrior",
 		"movement": 3,
 		"strength": 15,
-		"rangedStrength": 5,
 		"range": 2,
 		"cost": 50,
 		"requiredTech": "Bronze Working",
-		"promotions": ["Ukubhekezela I","Ukubhekezela II",],
+		"promotions": ["Ukubhekezela I","Ukubhekezela II"],
 		"attackSound": "phasers"
 	}
 ]
+[
+	{
+		"name": "Impi",
+		"unitType": "Melee",
+		"replaces": "Pikeman",
+		"movement": 4,
+		"strength": 20,
+		"rangedStrength": 10,
+		"range": 3,
+		"cost": 150,
+		"requiredTech": "Civil Service",
+		"promotions": ["Ukubhekezela I","Ukubhekezela II"],
+		
